@@ -7,9 +7,6 @@
     <ClCompile Include="CalcUtils.cpp">
       <Filter>ソース</Filter>
     </ClCompile>
-    <ClCompile Include="Define.cpp">
-      <Filter>ソース</Filter>
-    </ClCompile>
     <ClCompile Include="DummyScene.cpp">
       <Filter>ソース</Filter>
     </ClCompile>

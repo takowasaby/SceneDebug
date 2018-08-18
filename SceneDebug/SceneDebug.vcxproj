@@ -133,7 +133,6 @@
   <ItemGroup>
     <ClCompile Include="AbstractScene.cpp" />
     <ClCompile Include="CalcUtils.cpp" />
-    <ClCompile Include="Define.cpp" />
     <ClCompile Include="DummyScene.cpp" />
     <ClCompile Include="EachEffect.cpp" />
     <ClCompile Include="Error.cpp" />
