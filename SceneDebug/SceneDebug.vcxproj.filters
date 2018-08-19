@@ -52,6 +52,9 @@
     <ClCompile Include="Vector2.cpp">
       <Filter>ソース</Filter>
     </ClCompile>
+    <ClCompile Include="Mouse.cpp">
+      <Filter>ソース</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AbstractScene.h">
@@ -118,6 +121,9 @@
       <Filter>ヘッダ</Filter>
     </ClInclude>
     <ClInclude Include="Vector2.h">
+      <Filter>ヘッダ</Filter>
+    </ClInclude>
+    <ClInclude Include="Mouse.h">
       <Filter>ヘッダ</Filter>
     </ClInclude>
   </ItemGroup>
